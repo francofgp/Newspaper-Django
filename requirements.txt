@@ -9,7 +9,7 @@ Django @ file:///tmp/build/80754af9/django_1609784082548/work
 django-braces==1.14.0
 django-cache-url==3.1.2
 django-crispy-forms==1.9.2
-environs==8.0.0
+
 flake8 @ file:///tmp/build/80754af9/flake8_1601911421857/work
 gunicorn==19.9.0
 importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
